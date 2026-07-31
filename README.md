@@ -17,7 +17,7 @@ LPL Financial - Tempe, Arizona
 - Handle high risk corporate action events and reconcile high value accounts
 
 Assistant Manager, 02/2023 - 09/2024
-DBAT Peoria
+DBAT Peoria - Peoria, Arizona
 - Analyzed facility performance metrics, including sales, revenue, and attendance trends, to identify opportunities for operational improvements.
 - Reviewed financial and customer data to evaluate business performance and support management decision-making.
 - Tracked attendance patterns and revenue performance to optimize scheduling, promotions, and facility operations.
