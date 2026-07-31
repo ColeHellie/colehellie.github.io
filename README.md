@@ -16,18 +16,18 @@ LPL Financial - Tempe, Arizona
 - Promoted to Analyst within first year
 - Handle high risk corporate action events and reconcile high value accounts
 
-Assistant Manager,
+Assistant Manager, 02/2023 - 09/2024
 DBAT Peoria
-Analyzed facility performance metrics, including sales, revenue, and attendance trends, to identify opportunities for operational improvements.
-Reviewed financial and customer data to evaluate business performance and support management decision-making.
-Tracked attendance patterns and revenue performance to optimize scheduling, promotions, and facility operations.
+- Analyzed facility performance metrics, including sales, revenue, and attendance trends, to identify opportunities for operational improvements.
+- Reviewed financial and customer data to evaluate business performance and support management decision-making.
+- Tracked attendance patterns and revenue performance to optimize scheduling, promotions, and facility operations.
 
 Financial Representative, 04/2022 - 02/2023 
 Charles Schwab - Phoenix, Arizona
-•	Acted as primary point of contact for retail clients, educating them on equity markets and Schwab platforms while executing trades.
-•	Maintained compliance with FINRA regulations while executing and supporting trade activity.
-•	Enhanced communication and problem-solving skills through collaboration with internal teams and client interactions.
-•	FINRA Licensing acquired (Securities Industry Essentials Exam, Series 7 Exam, Series 63, and Series 99)
+- Acted as primary point of contact for retail clients, educating them on equity markets and Schwab platforms while executing trades.
+- Maintained compliance with FINRA regulations while executing and supporting trade activity.
+- Enhanced communication and problem-solving skills through collaboration with internal teams and client interactions.
+- FINRA Licensing acquired (Securities Industry Essentials Exam, Series 7 Exam, Series 63, and Series 99)
 
 
 ## Projects
