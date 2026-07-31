@@ -10,8 +10,6 @@ Self-motivated Data Analyst with a Master of Science in Business Analytics and a
 - ### M.S. Business Analytics  Grand Canyon University (February 2026)
 - ### B.S. Business Finance    Dakota Wesleyan University (May 2022)
 
-[Recommendations](https://www.linkedin.com/in/cole-hellie-msba-a2770b1ba/details/recommendations/?detailScreenTabIndex=0)
-
 ## Work Experience
 Analyst Corporate Actions @ LPL Financial (09/2024 - Current)
 - Utilize advanced Excel functions to track, validate, and report financial data.
