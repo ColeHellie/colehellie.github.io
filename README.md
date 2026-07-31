@@ -31,5 +31,5 @@ Financial Representative @ Charles Schwab (04/2022 - 02/2023)
 
 
 ## Projects
-[AdventureWorks]([https://github.com/colehellie/AdventureWorks](https://colehellie.github.io/AdventureWorks/))
+[AdventureWorks]([https://github.com/colehellie/AdventureWorks](https://colehellie.github.io/AdventureWorks/)
 Technical Skills Applied: SQL and Excel
