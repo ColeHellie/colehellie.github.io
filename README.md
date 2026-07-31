@@ -5,7 +5,7 @@ Technical Skills: SQL, Python, Alteryx, Excel, Tableau, and PowerBI
 - M.S. Business Analytics  Grand Canyon University (February 2026)
 - B.S. Business Finance    Dakota Wesleyan University (May 2022)
 
-Recommendations: [Recommendations]( https://www.linkedin.com/in/cole-hellie-msba-a2770b1ba/#:~:text=Show%20all-,Recommendations,-Show%20all%20pending)
+Recommendations: [Recommendations](https://www.linkedin.com/in/cole-hellie-msba-a2770b1ba/details/recommendations/?detailScreenTabIndex=0)
 
 ## Work Experience
 Analyst Corporate Actions, 09/2024 - Current 
