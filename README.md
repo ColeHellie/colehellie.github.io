@@ -9,6 +9,7 @@ Self-motivated Data Analyst with a Master of Science in Business Analytics and a
 ## Education
 M.S. Business Analytics (February 2026)
 - Grand Canyon University 
+
 B.S. Business Finance (May 2022)
 - Dakota Wesleyan University 
 
