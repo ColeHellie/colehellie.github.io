@@ -34,11 +34,11 @@ Financial Representative @ Charles Schwab (04/2022 - 02/2023)
 [AdventureWorks](https://colehellie.github.io/AdventureWorks/)
 - Technical Skills Applied: SQL and Excel
 
-[Sphere Las Vegas: Event Performance & 2026 Forecast]
+Sphere Las Vegas: Event Performance & 2026 Forecast
 - Technical Skills Applied: PowerBI and Excel
 
-[Account Activity Analysis]
+Account Activity Analysis
 - Technical Skills Applied: Alteryx
 
-[Operational Efficiency - Manufacturing Plant]
+Operational Efficiency - Manufacturing Plant
 - Technical Skills Applied: Python and Tableau
