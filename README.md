@@ -7,8 +7,8 @@ Technical Skills: SQL, Python, Alteryx, Excel, Tableau, and PowerBI
 Self-motivated Data Analyst with a Master of Science in Business Analytics and a strong foundation in financial analysis, forecasting, and data-driven decision-making. Experienced in leveraging SQL, Python, Excel, and Power BI to analyze trends, develop insights, and support strategic business planning.
 
 ## Education
-- M.S. Business Analytics  Grand Canyon University (February 2026)
-- B.S. Business Finance    Dakota Wesleyan University (May 2022)
+- M.S. Business Analytics @ Grand Canyon University (February 2026)
+- B.S. Business Finance @ Dakota Wesleyan University (May 2022)
 
 ## Work Experience
 Analyst Corporate Actions @ LPL Financial (09/2024 - Current)
