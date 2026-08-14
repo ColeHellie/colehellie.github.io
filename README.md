@@ -40,7 +40,7 @@ Financial Representative @ Charles Schwab (Jun 2022 - Feb 2023)
 Sphere Las Vegas: Event Performance & 2026 Forecast
 - Technical Skills Applied: PowerBI and Excel
 
-Account Activity Analysis
+[Account Activity Analysis] (https://github.com/ColeHellie/AccountReconciliation)
 - Technical Skills Applied: SQL, Alteryx, and Excel
 
 Operational Efficiency - Manufacturing Plant
