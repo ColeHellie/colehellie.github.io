@@ -7,26 +7,26 @@ Technical Skills: SQL, Python, Alteryx, Excel, Tableau, and PowerBI
 Self-motivated Data Analyst with a Master of Science in Business Analytics and a strong foundation in financial analysis, forecasting, and data-driven decision-making. Experienced in leveraging SQL, Python, Excel, and Power BI to analyze trends, develop insights, and support strategic business planning.
 
 ## Education
-M.S. Business Analytics (February 2026)
+M.S. Business Analytics (Feb 2026)
 - Grand Canyon University 
 
 B.S. Business Finance (May 2022)
 - Dakota Wesleyan University 
 
 ## Work Experience
-Analyst Corporate Actions @ LPL Financial (09/2024 - Current)
+Analyst Corporate Actions @ LPL Financial (Sept 2024 - Current)
 - Utilize advanced Excel functions to track, validate, and report financial data.
 - Leverage Alteryx to optimize workflows and clean data.
 - Leverage SQL to pull Advisor and security information.
 - Promoted to Analyst within first year.
 - Handle high risk corporate action events and reconcile high value accounts.
 
-Assistant Manager @ DBAT Peoria (02/2023 - 09/2024)
+Assistant Manager @ DBAT Peoria (Feb 2023 - Sept 2024)
 - Analyzed facility performance metrics, including sales, revenue, and attendance trends, to identify opportunities for operational improvements.
 - Reviewed financial and customer data to evaluate business performance and support management decision-making.
 - Tracked attendance patterns and revenue performance to optimize scheduling, promotions, and facility operations.
 
-Financial Representative @ Charles Schwab (04/2022 - 02/2023)
+Financial Representative @ Charles Schwab (Jun 2022 - Feb 2023)
 - Acted as primary point of contact for retail clients, educating them on equity markets and Schwab platforms while executing trades.
 - Maintained compliance with FINRA regulations while executing and supporting trade activity.
 - Enhanced communication and problem-solving skills through collaboration with internal teams and client interactions.
@@ -41,7 +41,7 @@ Sphere Las Vegas: Event Performance & 2026 Forecast
 - Technical Skills Applied: PowerBI and Excel
 
 Account Activity Analysis
-- Technical Skills Applied: Alteryx
+- Technical Skills Applied: SQL, Alteryx, and Excel
 
 Operational Efficiency - Manufacturing Plant
-- Technical Skills Applied: Python and Tableau
+- Technical Skills Applied: Python, Tableau, and Powerpoint
