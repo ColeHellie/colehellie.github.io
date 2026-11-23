@@ -15,7 +15,11 @@ Self-motivated Data Analyst with a Master of Science in Business Analytics and a
 
 ## Certifiations
 - Financial Planning & Analysis Professional from [CFI](https://corporatefinanceinstitute.com/?irclickid=TbPX2CXFJxyZRTCwn8XUAW5NUkrUOSUP7yfR1Q0&utm_source=impact&utm_medium=affiliate&utm_campaign=yeahpromos&utm_term=3311071&utm_content&irgwc=1&afsrc=1&gad_source=1&gad_campaignid=24370257068&gbraid=0AAAABERV1MT_SyK56qyNRLa80pT51A0z_&gclid=EAIaIQobChMIzr2WztyemAMVVjdECB0VrQrGEAAYAyAAEgJsK_D_BwE) (Dec 2026)
-- Six Sigma Yellow Belt from 
+- Six Sigma Yellow Belt from [GLSS](https://goleansixsigma.com/?via=abhishek&gad_source=1&gad_campaignid=23316766798&gbraid=0AAAAA-FFq1Qb5AYPqJwnBy23WDnd0jt5p&gclid=EAIaIQobChMIw4SIhd2emAMVTypECB2M4heMEAAYASAAEgKvX_D_BwE) (Feb, 2026)
+- Securities Industry Essentials (SIE) – FINRA (Aug, 2022)
+- Series 7 – General Securities Representative - FINRA (Oct, 2022)
+- Series 63 – Uniform Securities Agent - FINRA (Nov, 2022)
+- Series 99 – Operations Professional - FINRA (Oct, 2024)
 
 ## Work Experience
 **Tech FP&A** @ Osaic (Oct 2026 - Current)
