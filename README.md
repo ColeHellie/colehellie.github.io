@@ -1,4 +1,4 @@
-# Data Analyst
+# Data / Financial Analyst
 Technical Skills: SQL, Python, Alteryx, Excel, Tableau, and PowerBI
 
 [Linkedin Profile](www.linkedin.com/in/cole-hellie-msba-a2770b1ba)
@@ -13,8 +13,18 @@ Self-motivated Data Analyst with a Master of Science in Business Analytics and a
 **B.S. Business Finance** (May 2022)
 - Dakota Wesleyan University - GPA 3.55
 
+## Certifiations
+- Financial Planning & Analysis Professional from [CFI](https://corporatefinanceinstitute.com/?irclickid=TbPX2CXFJxyZRTCwn8XUAW5NUkrUOSUP7yfR1Q0&utm_source=impact&utm_medium=affiliate&utm_campaign=yeahpromos&utm_term=3311071&utm_content&irgwc=1&afsrc=1&gad_source=1&gad_campaignid=24370257068&gbraid=0AAAABERV1MT_SyK56qyNRLa80pT51A0z_&gclid=EAIaIQobChMIzr2WztyemAMVVjdECB0VrQrGEAAYAyAAEgJsK_D_BwE) (Dec 2026)
+- Six Sigma Yellow Belt from 
+
 ## Work Experience
-**Analyst Corporate Actions** @ LPL Financial (Sept 2024 - Current)
+**Tech FP&A** @ Osaic (Oct 2026 - Current)
+- Support budgeting, forecasting, and financial analysis across technology-related spend.
+- Analyze actuals, forecasts, and variances to identify key cost drivers and provide financial insights.
+- Partner with Technology and Finance teams to evaluate business cases, spending trends, and financial assumptions.
+- Leverage Excel, Power Query, Apptio, and other analytical tools to improve reporting and financial processes.
+
+**Analyst Corporate Actions** @ LPL Financial (Sept 2024 - October 2026)
 - Utilize advanced Excel functions to track, validate, and report financial data.
 - Leverage Alteryx to optimize workflows and clean data.
 - Leverage SQL to pull Advisor and security information.
